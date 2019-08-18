@@ -64,6 +64,9 @@ Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
 
 
 
+
+<h1 style="color:blue;">This is a Blue Heading</h1>
+
 This is a regular paragraph.
 
 <table>
