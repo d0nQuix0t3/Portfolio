@@ -39,8 +39,8 @@ Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
 
 
 ### Professional Experience:
-#### ACCENTURE: June 2014 - Current
-#### Project Manager (September 2017 - Current)
+**ACCENTURE: June 2014 - Current**  
+**Project Manager (September 2017 - Current)**  
 * Manage multiple project work streams for multi-national telecommunications client. 
   * Manage complete project lifecycle including planning, scheduling, daily progress tracking, risk mitigation, system testing, product launch, performance measures and controls.
   * Manage third party software development supplier through extensive communication to resolve development issues.
@@ -52,7 +52,7 @@ Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
   * Design and utilize NLP and automation to identify and resolve common issues identified from IT trouble tickets opened by system users.
   * Implement a number of Machine Learning Algorithms to better track and predict trending patterns on issues that arise from the project.
 
-#### Sr. Automation Analyst (June 2014 - September 2017)
+**Sr. Automation Analyst (June 2014 - September 2017)**  
 * Developed complex custom solutions, for internal and external clients, including analysis, design, modeling, development of workflow and process automation. Examples include:
   * Dynamic tool for system upgrades which reduced workflow time by 400%.
   * System generator which reduced remote development process time by 900%.
@@ -65,14 +65,3 @@ Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
 
 
 
-<h1 style="color:blue;">This is a Blue Heading</h1>
-
-This is a regular paragraph.
-
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-This is another regular paragraph.
