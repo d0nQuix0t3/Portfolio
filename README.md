@@ -59,3 +59,17 @@ Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
   * Internal financial forecasting tool to standardize cost proposals for oil and gas automation control projects.
 * Designed and developed a custom monitoring system providing a cost-effective alternative with full scale capabilities.
 * Designed custom solution for clients using machine learning algorithms to predict failures.
+
+
+
+
+
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph.
