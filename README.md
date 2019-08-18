@@ -40,12 +40,11 @@ Udacity - Nanodegree
 ### Professional Experience:
 **ACCENTURE: June 2014 - Current**  
 **Project Manager (September 2017 - Current)**
-* Manage multiple project work streams for multi-national telecommunications client. 
+* Manage multiple project work streams for multi-national telecommunications client.
   * Manage complete project lifecycle including planning, scheduling, daily progress tracking, risk mitigation, system testing, product launch, performance measures and controls.
   * Manage third party software development supplier through extensive communication to resolve development issues.
   * Construct and conduct executive level presentations and reports on a daily basis.
   * Work regularly with Operations to identify risks and install risk mitigation plan to ensure objectives and deadlines are met.
-  
 * Develop numerous technical data solutions to assist with management of the overall project and its components.
   * Develop custom solutions to consolidate thousands of data points from multiple sources into executive reports utilizing automated dashboards.
   * Design and utilize NLP and automation to identify and resolve common issues identified from IT trouble tickets opened by system users.
