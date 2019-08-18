@@ -13,6 +13,10 @@ History of designing and developing **custom business solutions** to meet specif
 Colorado School of Mines  
 Golden, CO
 
+**A.I. Product Manager**
+Udacity - Nanodegree
+
+
 ### Skills:  
 **Technical:**  
 Software Design, Robotics, Industrial Control Systems, Industrial Networks, Process Control and Feedback, PID Control, VFDs, App Development, Optimization, Server-Side Scripting, Agile Workforce, Data Analysis and Machine Learning, NLP
