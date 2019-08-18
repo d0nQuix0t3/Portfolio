@@ -28,6 +28,8 @@ Udacity - Nanodegree
  **Machine Learning:** Pandas, scikit-learn, NumPy, Matplotlib, TensorFlow, Turi Create, CoreML  
  **DevOps:** Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally  
 
+<br />
+
 ### Highlights:
 * Handle **multiple projects simultaneously**
 * Manage and report on project status using **automated machine learning workflows**
@@ -35,7 +37,7 @@ Udacity - Nanodegree
 * Lead **problem solver** using root cause analysis
 * Develop and implement **project standards** to improve efficiency
 
-
+<br />
 
 ### Professional Experience:
 **ACCENTURE: June 2014 - Current**  
