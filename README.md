@@ -13,7 +13,7 @@ History of designing and developing **custom business solutions** to meet specif
 Colorado School of Mines  
 Golden, CO
 
-**A.I. Product Manager**
+**A.I. Product Manager**  
 Udacity - Nanodegree
 
 
