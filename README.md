@@ -27,7 +27,7 @@ Software Design, Robotics, Industrial Control Systems, Industrial Networks, Proc
 * **Machine Learning:**   
   * Pandas, scikit-learn, NumPy, Matplotlib, TensorFlow, Turi Create, CoreML  
 * **DevOps:**   
-  *Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally  
+  * Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally  
 
 ### Highlights:
 * Handle **multiple projects simultaneously**
