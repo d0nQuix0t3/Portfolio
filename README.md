@@ -8,10 +8,10 @@ Experience in complex project design, planning, scheduling, and **day-to-day pro
 History of designing and developing **custom business solutions** to meet specific needs for internal and external clients.
 
 
-### Education:  
-#### B.S. Mechanical Engineering  
-##### Colorado School of Mines  
-##### Golden, CO
+### Education:
+**B.S. Mechanical Engineering**  
+Colorado School of Mines  
+Golden, CO
 
 ### Skills:  
 #### Technical:  
