@@ -22,6 +22,7 @@ Udacity - Nanodegree
 ### Skills:  
 **Technical:** 
 * Software Design, Robotics, Industrial Control Systems, Industrial Networks, Process Control and Feedback, PID Control, VFDs, App Development, Optimization, Server-Side Scripting, Agile Workforce, Data Analysis and Machine Learning, NLP  
+
 **OS:** 
 * macOS, Windows, Linux  
 
