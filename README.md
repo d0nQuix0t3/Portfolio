@@ -24,3 +24,8 @@ History of designing and developing **custom business solutions** to meet specif
 
 #### Sr. Automation Analyst (June 2014 - September 2017)
 * Developed complex custom solutions, for internal and external clients, including analysis, design, modeling, development of workflow and process automation. Examples include:
+  * Dynamic tool for system upgrades which reduced workflow time by 400%.
+  * System generator which reduced remote development process time by 900%.
+  * Internal financial forecasting tool to standardize cost proposals for oil and gas automation control projects.
+* Designed and developed a custom monitoring system providing a cost-effective alternative with full scale capabilities.
+* Designed custom solution for clients using machine learning algorithms to predict failures.
