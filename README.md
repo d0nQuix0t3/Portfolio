@@ -29,6 +29,15 @@ Pandas, scikit-learn, NumPy, Matplotlib, TensorFlow, Turi Create, CoreML
 ##### DevOps:
 Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
 
+### Highlights:
+* Handle **multiple projects simultaneously**
+* Manage and report on project status using **automated machine learning workflows**
+* Achieved project record man hour savings through **workflow automation** 
+* Lead **problem solver** using root cause analysis
+* Develop and implement **project standards** to improve efficiency
+
+
+
 ### Professional Experience:
 #### ACCENTURE: June 2014 - Current
 #### Project Manager (September 2017 - Current)
