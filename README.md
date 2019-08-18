@@ -20,13 +20,13 @@ Software Design, Robotics, Industrial Control Systems, Industrial Networks, Proc
 #### Computer:
 **OS:**  
 macOS, Windows, Linux
-##### Software:
+**Software:**  
 Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Office, Microsoft Access, Microsoft Visio, Microsoft Project, Microsoft PowerBI, Microsoft Azure, Xcode, Xamarin
-##### Code:
+**Code:**  
 C, C++, Python, R, Swift, C#, HTML, CSS, JavaScript, SQL, Node.js, React, MATLAB, Visual Basic, Ladder Logic
-##### Machine Learning:
+**Machine Learning:**  
 Pandas, scikit-learn, NumPy, Matplotlib, TensorFlow, Turi Create, CoreML
-##### DevOps:
+**DevOps:**  
 Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally
 
 ### Highlights:
