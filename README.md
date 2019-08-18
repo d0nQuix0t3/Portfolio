@@ -11,3 +11,4 @@ History of designing and developing **custom business solutions** to meet specif
 ### Professional Experience:
 #### ACCENTURE: June 2014 - Current
 ##### Project Manager (September 2017 - Current)
+* Manage multiple project work streams for multi-national telecommunications client. 
