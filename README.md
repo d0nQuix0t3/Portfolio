@@ -19,7 +19,7 @@ Golden, CO
 **A.I. Product Manager**  
 Udacity - Nanodegree
 
-<br />
+---
 
 ### Skills:  
 **Technical:** 
@@ -40,7 +40,7 @@ Udacity - Nanodegree
 **DevOps:** 
 * Git, Docker, Docker Swarm, AWS, Jenkins, Jira, Rally  
 
-<br />
+---
 
 ### Highlights:
 * Handle **multiple projects simultaneously**
@@ -49,7 +49,7 @@ Udacity - Nanodegree
 * Lead **problem solver** using root cause analysis
 * Develop and implement **project standards** to improve efficiency
 
-<br />
+---
 
 ### Professional Experience:
 **ACCENTURE: June 2014 - Current**  
@@ -73,7 +73,7 @@ Udacity - Nanodegree
 * Designed custom solution for clients using machine learning algorithms to predict failures.
 
 
-<br />
+---
 
 ### Other Projects:
 **Project 1**
