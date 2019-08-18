@@ -9,7 +9,7 @@ Experience in complex project design, planning, scheduling, and **day-to-day pro
 
 History of designing and developing **custom business solutions** to meet specific needs for internal and external clients.
 
-<br />
+---
 
 ### Education:
 **B.S. Mechanical Engineering**  
