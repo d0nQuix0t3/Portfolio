@@ -1,6 +1,8 @@
 # Ryan Moos  
 ## Project Manager / DevOps Engineer / Artificial Intelligence  
 
+---
+
 Engineer specializing in **project management and workflow automation.**
 
 Experience in complex project design, planning, scheduling, and **day-to-day project management** for multiple Fortune 500 clients.
