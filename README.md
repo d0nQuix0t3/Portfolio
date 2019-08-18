@@ -71,7 +71,10 @@ Udacity - Nanodegree
 * Designed custom solution for clients using machine learning algorithms to predict failures.
 
 
+<br />
 
-
+### Other Projects:
+**Project 1**
+Project 1 Description goes here...
 
 
