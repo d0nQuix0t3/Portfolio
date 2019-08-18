@@ -1,5 +1,5 @@
-# Ryan Moos 
-## Project Manager / DevOps Engineer / Artificial Intelligence
+# Ryan Moos  
+## Project Manager / DevOps Engineer / Artificial Intelligence  
 
 Engineer specializing in **project management and workflow automation.**
 
@@ -8,13 +8,13 @@ Experience in complex project design, planning, scheduling, and **day-to-day pro
 History of designing and developing **custom business solutions** to meet specific needs for internal and external clients.
 
 
-### Education:
-#### B.S. Mechanical Engineering
-##### Colorado School of Mines
+### Education:  
+#### B.S. Mechanical Engineering  
+##### Colorado School of Mines  
 ##### Golden, CO
 
-### Skills:
-#### Technical:
+### Skills:  
+#### Technical:  
 Software Design, Robotics, Industrial Control Systems, Industrial Networks, Process Control and Feedback, PID Control, VFDs, App Development, Optimization, Server-Side Scripting, Agile Workforce, Data Analysis and Machine Learning, NLP
 
 #### Computer:
