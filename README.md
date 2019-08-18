@@ -1,6 +1,6 @@
 # Ryan Moos
 ## Project Manager / DevOps Engineer / Artificial Intelligence  
-> [GitHub](https://github.com/d0nQuix0t3/Portfolio)
+> [GitHub](https://github.com/d0nQuix0t3/Portfolio)  
 > rmoos03@icloud.com
 ---
 
