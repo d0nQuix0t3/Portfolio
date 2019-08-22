@@ -77,7 +77,5 @@ Udacity - Nanodegree
 ---
 
 ### Other Projects:
-**Project 1**
-Project 1 Description goes here...
-
+**UNDER CONSTRUCTION**
 
