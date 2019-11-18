@@ -3,7 +3,7 @@
 ---
 
 ## Projects:
-* [Sentiment Anlaysis - Neural Networks]()
+* [Sentiment Anlaysis - Neural Networks](/Projects/SentimentAnalysis/)
 * [AI Python Package - UNDER CONSTRUCTION]()
 
 
