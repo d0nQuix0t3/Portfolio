@@ -1,4 +1,4 @@
-# Personal Github Portfolio
+# Personal Portfolio
 > [Website](https://www.moos.engineering)
 ---
 
