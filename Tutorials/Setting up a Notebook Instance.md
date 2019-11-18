@@ -1,4 +1,4 @@
-## Setting up a Notebook Instance
+## Setting up a New Notebook Instance in AWS SageMaker
 
 The first thing we are going to need to do is set up a notebook instance!
 
